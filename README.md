@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/0eb38a8f-1b10-4a60-a6e7-3335723bf116)
-### About Me
 Hi there! I'm Hui Ru or Ru, a Computer Science graduate specialising in Game and Mobile development. 
 
 ### Tools I Have Used and Learned
